@@ -70,7 +70,7 @@ Before running, you need YouTube API credentials:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://soulcrack-spoofs-admin@bitbucket.org/soulcrack-spoofs/auto-publisher.git
+git clone https://github.com/vikrant-project/auto-publisher
 cd auto-publisher
 ```
 
