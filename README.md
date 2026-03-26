@@ -70,7 +70,7 @@ Before running, you need YouTube API credentials:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/vikrant-project/auto-publisher
+git clone https://github.com/vikrantproject/auto-publisher
 cd auto-publisher
 ```
 
